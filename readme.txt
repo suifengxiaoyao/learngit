@@ -8,3 +8,5 @@ new a branch dev.
 
 Git is free software...
 
+git clone a new branch
+
