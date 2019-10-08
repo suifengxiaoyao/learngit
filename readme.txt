@@ -6,6 +6,6 @@ controll branch .
 
 new a branch dev.
 
-Git is a free software
+Git is free software...
 
 git asd branch new a object.
