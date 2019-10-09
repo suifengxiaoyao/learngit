@@ -12,7 +12,7 @@ git clone a new branch
 
 one toDay is 10.9
 
-laomeng is writer
+laomeng is writer git file
 
 laomeng hai chawo jiu
 
